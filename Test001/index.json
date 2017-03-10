@@ -1,8 +1,8 @@
 {
-    "title": "Launch Kubernetes Cluster",
-    "description": "Learn how to launch a Kubernetes cluster including DNS and Kube UI",
+    "title": "Learn SQL",
+    "description": "Learn how to use an database by mastering the SQL language",
     "difficulty": "beginner",
-    "time": "10-15 minutes",
+    "time": "10-30 minutes",
     "details": {
         "steps": [
             {

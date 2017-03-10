@@ -3,7 +3,6 @@ Sql is "Structured Query Language".
 This course will give you some basic information.
 
 
-
 Etcd is a "Distributed reliable key-value store for the most critical data of a distributed system". Kubernetes uses Etcd to store state about the cluster and service discovery between nodes. This state includes what nodes exist in the cluster, which nodes they are running on and what containers should be running.
 
 The command below will launch a single node etcd cluster listening on port 4001.
